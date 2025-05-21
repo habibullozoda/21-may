@@ -553,3 +553,125 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.flex {
+  display: flex;
+}
+
+.h-\[20px\] {
+  height: 20px;
+}
+
+.h-\[15px\] {
+  height: 15px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[80\] {
+  width: 80;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.w-\[100p\] {
+  width: 100p;
+}
+
+.w-\[100px\] {
+  width: 100px;
+}
+
+.w-\[120px\] {
+  width: 120px;
+}
+
+.w-\[140px\] {
+  width: 140px;
+}
+
+.w-\[10px\] {
+  width: 10px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[20px\] {
+  border-radius: 20px;
+}
+
+.rounded-\[10px\] {
+  border-radius: 10px;
+}
+
+.rounded-\[5px\] {
+  border-radius: 5px;
+}
+
+.rounded-\[15px\] {
+  border-radius: 15px;
+}
+
+.border-\[1px\] {
+  border-width: 1px;
+}
+
+.border-gray-100 {
+  --tw-border-opacity: 1;
+  border-color: rgb(243 244 246 / var(--tw-border-opacity, 1));
+}
+
+.bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity, 1));
+}
+
+.px-\[1\] {
+  padding-left: 1;
+  padding-right: 1;
+}
+
+.px-\[15px\] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.py-\[\] {
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pl-\[15px\] {
+  padding-left: 15px;
+}
+
+.pr-\[15px\] {
+  padding-right: 15px;
+}
+
+.pl-\[0px\] {
+  padding-left: 0px;
+}
